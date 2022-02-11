@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200330T162418Z
+DTSTART;TZID=America/Los_Angeles:20200330T140000
+DTEND;TZID=America/Los_Angeles:20200330T153000
+SUMMARY:CS177 Lecture
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200603T223000;INTERVAL=1;BYDAY=MO,WE
+UID:ZOOM215857159
+TZID:America/Los_Angeles
+DESCRIPTION:Christopher Kruegel is inviting you to a scheduled Zoom meeti
+ ng.\n\nJoin Zoom Meeting\nhttps://ucsb.zoom.us/j/215857159?pwd=cSsrSk9FN
+ lp0L0JLNjkybkNLL0l4Zz09\n\nMeeting ID: 215 857 159\nPassword: cs177\n\nO
+ ne tap mobile\n+13126266799\,\,215857159# US (Chicago)\n+16468769923\,\,
+ 215857159# US (New York)\n\nDial by your location\n        +1 312 626 67
+ 99 US (Chicago)\n        +1 646 876 9923 US (New York)\n        +1 301 7
+ 15 8592 US\n        +1 346 248 7799 US (Houston)\n        +1 669 900 683
+ 3 US (San Jose)\n        +1 253 215 8782 US\nMeeting ID: 215 857 159\nFi
+ nd your local number: https://ucsb.zoom.us/u/abcIs4QAKc\n\nJoin by SIP\n
+ 215857159@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255
+ .36.11 (US East)\n221.122.88.195 (China)\n115.114.131.7 (India Mumbai)\n
+ 115.114.115.7 (India Hyderabad)\n213.19.144.110 (EMEA)\n103.122.166.55 (
+ Australia)\n209.9.211.110 (Hong Kong)\n64.211.144.160 (Brazil)\n69.174.5
+ 7.160 (Canada)\n207.226.132.110 (Japan)\nMeeting ID: 215 857 159\nPasswo
+ rd: 007791\n
+LOCATION:https://ucsb.zoom.us/j/215857159?pwd=cSsrSk9FNlp0L0JLNjkybkNLL0l
+ 4Zz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

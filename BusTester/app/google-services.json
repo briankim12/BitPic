@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "213673867722",
+    "firebase_url": "https://busproject-c78fe.firebaseio.com",
+    "project_id": "busproject-c78fe",
+    "storage_bucket": "busproject-c78fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213673867722:android:509f9dac86af444ff6f733",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.busnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213673867722-omufg334oadd9gp2g4nh9kbj6brf55ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ucsb.cs.cs184.busnotifier",
+            "certificate_hash": "7f085d8476f9930d5c9ba6ceccd2f2c7de9cbcca"
+          }
+        },
+        {
+          "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYnR-KNNw7i-PaBI46yu1bCKjxG7yk8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213673867722:android:1fec6ab9fb6c45e7f6f733",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.bustester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYnR-KNNw7i-PaBI46yu1bCKjxG7yk8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213673867722:android:cc94a5b1436329a2f6f733",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.cs184bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYnR-KNNw7i-PaBI46yu1bCKjxG7yk8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213673867722:android:ab31296374d584d5f6f733",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.jiqi_wang.courseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYnR-KNNw7i-PaBI46yu1bCKjxG7yk8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213673867722-9fdavu6igk6g26t3q36klcb2n5fmlb8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
